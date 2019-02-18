@@ -9,6 +9,6 @@ It's user friendly and very simple.
 
 - **3) Finally at the bottom you can pass any argument you wish to pass to Game.exe such as -w for windowed, -3dfx, -ns etc...**
 
-- **The Settings are saved to remember your choice <3**
+- **The Settings are saved to remember your choice ♥**
 
 # Launch Game !
