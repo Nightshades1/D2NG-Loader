@@ -1,7 +1,8 @@
-﻿/*<Diablo II Next Gen Loader allowing starting modders to load 
+﻿/*Diablo II Next Gen Loader allowing starting modders to load 
  * their custom DLL(s) without the need of patching Fog or D2Win, 
- * also preventing access violation and weird behavior.>
-    Copyright(C) <2019>  <Valentin Fort>
+ * also preventing access violation and weird behavior.
+ * 
+    Copyright(C) 2019  Valentin Fort
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by

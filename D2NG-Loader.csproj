@@ -114,7 +114,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="D2XP.ico" />
-    <Content Include="License-gpl-3.0.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
